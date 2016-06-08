@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:34.652127
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 地持義記卷第四
 #+PROPERTY: CBETA_ID T85n2803
 #+PROPERTY: ID KR6n0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2803
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0012_T_000-0947c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0012_T_004-0947c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-No.2803[cf.No.1581]¶
-
- 地持義記卷第四¶
+No. 2803 [cf. No. 1581]¶
+地持義記卷第四¶
 ¶
 
 發下對釋之。應先解釋道品之義。然後釋¶
